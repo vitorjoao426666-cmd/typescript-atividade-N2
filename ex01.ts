@@ -9,6 +9,7 @@ const quantidade2: number = 2;
 
 const aberta = true;
 // Para a constante o tipo inferido é o próprio valor da váriavel
+
 let paesVendidosNoAno: number = 1_250_000;
 let codigoCategoria: number = 0x1a;
 
